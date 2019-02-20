@@ -9,8 +9,5 @@
   "devDependencies": {
     "@types/node": "^10.12.24",
     "typescript": "^3.3.3"
-  },
-  "dependencies": {
-    "await-limit": "file:../await-limit"
   }
 }
